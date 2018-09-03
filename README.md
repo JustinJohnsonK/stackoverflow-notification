@@ -10,6 +10,8 @@ thrown when your reputation changes.
 
 ## How to make this work?
 
-#### activate venv:  source venv/bin/activate
+#### activate venv:  
+$ source venv/bin/activate
 
-#### run the program:  python stacknotification.py
+#### run the program:  
+$ python stacknotification.py
