@@ -1,10 +1,10 @@
 # stackoverflow-notification
 
-## What does this linux application do?
+## What does this application do?
 
-This program logs into your stackoverflow using the credentials provided and extract your reputation value. A notification is 
+This program logs into your stackoverflow using the credentials provided in config.py and extract your reputation value. 
 
-thrown when your reputation changes.
+A notification is thrown when your reputation changes.
 
 #### Packages used: robobrowser, pgi, bs4(BeautifulSoup)
 
@@ -15,3 +15,8 @@ $ source venv/bin/activate
 
 #### run the program:  
 $ python stacknotification.py
+
+#### installed packages in the vertual env:
+1. robobrowser
+2. BeautifulSoup(bs4)
+3. pgi
