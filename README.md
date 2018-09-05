@@ -20,3 +20,11 @@ $ python stacknotification.py
 1. robobrowser
 2. BeautifulSoup(bs4)
 3. pgi
+
+
+
+
+
+## Note;
+
+This program is created in Sept, 2018. Changes made in the frontend of stackoverflow(login and home page) will directly affect the working of this program.
